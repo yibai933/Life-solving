@@ -1,0 +1,4 @@
+interface:
+  display_name: "毛选问题解决手册"
+  short_description: "用毛选方法完成深度自我对话、矛盾诊断与行动方案设计"
+  default_prompt: "Use $maoxuan-problem-solving to diagnose a life, work, study, or relationship problem and turn it into a 7-day action plan."

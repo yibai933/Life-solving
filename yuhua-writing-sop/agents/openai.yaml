@@ -1,0 +1,4 @@
+interface:
+  display_name: "余华写作SOP"
+  short_description: "从余华作品集中提炼文章创作流程"
+  default_prompt: "Use $yuhua-writing-sop to turn a theme into topic options, titles, argument design, emotional arc, material plan, and a complete Chinese essay."
